@@ -1,4 +1,7 @@
+.venv
+.idea 
+
 # dependencies
-/node_modules
-/build
-/dist
+node_modules
+build
+dist
